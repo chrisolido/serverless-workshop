@@ -4,7 +4,7 @@
 
 # Builds
 Lambda-Deployment.zip
-
+package-lock.json
 node_modules
 
 # Logs
